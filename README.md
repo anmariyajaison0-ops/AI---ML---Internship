@@ -73,8 +73,7 @@ Completed 22 days of AI/ML internship tasks and continuously updating this repos
 
 ---
 
-## 🤝 Connect With Me
-GitHub: https://github.com/anmariyajaison0-ops 
+## 🤝 Connect With Me 
 LinkedIn: www.linkedin.com/in/anmariya-jaison-3785072b6  
 
 ⭐ Feel free to explore this repository!
